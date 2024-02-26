@@ -1,0 +1,12 @@
+{
+  "name": "mkt-util",
+  "version": "0.0.1",
+  "description": "My util function",
+  "main": "index.js",
+  "keywords": [
+    "util"
+  ],
+  "email": "demoon84@gmail.com",
+  "author": "문경태(kyung tae Moon)",
+  "license": "MIT"
+}

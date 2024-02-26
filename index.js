@@ -1,0 +1,14 @@
+export {default as AnimationFrame} from './src/animationFrame';
+export {default as getBrowser} from './src/getBrowser';
+export {default as getDevice} from './src/getDevice';
+export {default as getOs} from './src/getOs';
+export {default as getParam} from './src/getParam';
+export {default as isIpad} from './src/isIpad';
+export {default as isIphone} from './src/isIphone';
+export {default as isMobile} from './src/isMobile';
+export {default as loadCss} from './src/loadCss';
+export {default as loadImage} from './src/loadImage';
+export {default as loadJs} from './src/loadJs';
+export {default as trim} from './src/trim';
+export {default as uniqueId} from './src/uniqueId';
+export {default as wheelDirection} from './src/wheelDirection';
