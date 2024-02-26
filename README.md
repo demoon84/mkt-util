@@ -114,3 +114,4 @@ $(window).on('mousewheel DOMMouseScroll', (e) => {
 	// => -1 or 1
 });
 ```
+
