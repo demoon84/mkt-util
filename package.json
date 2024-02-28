@@ -1,6 +1,6 @@
 {
   "name": "mkt-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My util function",
   "main": "index.js",
   "keywords": [
