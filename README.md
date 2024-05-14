@@ -115,3 +115,24 @@ $(window).on('mousewheel DOMMouseScroll', (e) => {
 });
 ```
 
+## Emitter
+
+### on(hooks, handler)
+
+### emit(hook, payload)
+
+```javascript
+const emitter = new Emitter();
+
+emitter.on('play pause', () => {
+
+});
+emitter.on('mute', () => {
+
+});
+
+emitter.emit('play');
+emitter.emit('pause');
+emitter.emit('mute', {type: 'mute'});
+```
+

@@ -1,8 +1,12 @@
 {
   "name": "mkt-util",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "My util function",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demoon84/mkt-util.git"
+  },
   "keywords": [
     "util"
   ],
